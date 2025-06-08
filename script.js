@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
             cert1Issuer: "Alura",
             cert2Title: "Introduction to Cybersecurity",
             cert2Issuer: "Cisco",
-            cert3Title: "Starting with Linux",
+            cert3Title: "Getting started with Linux",
             cert3Issuer: "Alura",
             contactTitle: "Contact",
             contactIntro: "Interested in collaborating or have a question?",
